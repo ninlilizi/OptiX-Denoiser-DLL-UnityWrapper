@@ -1,4 +1,4 @@
-# OptiX-Denoiser-DLL-Wrapper
+# OptiX-Denoiser-DLL-UnityWrapper
 OptiX denoiser functions wrapped for use in Unity
 
 Builds against:  
